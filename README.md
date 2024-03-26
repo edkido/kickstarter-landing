@@ -1,9 +1,12 @@
 # Kickstarter landing page by Eduard Herasym (GitHub: edkido)
 DESCRIPTION
+  This is a portfolio landing page designed to showcase my skills, projects, and experiences. Following the BEM (Block, Element, Modifier) methodology and utilizing SCSS (Sass), the landing page provides visitors with a clean and organized structure, enhancing readability and maintainability of the codebase.
 
-  This landing page serves as a gateway to explore my professional journey and skills.
-  My small portfolio project of landing page.
-  Landing is responsive for all basic viewports.
+FEATURES
+
+ - Clean and Modern Design: The landing page features a minimalist and aesthetically pleasing design, following the principles of BEM methodology to structure CSS classes for improved modularity and reusability.
+ - Responsive Layout: The layout is responsive, ensuring optimal viewing experience across various devices and screen sizes.
+ - Sections for Different Content: The landing page is divided into sections.
 
 TECHNNOLOGIES
   - HTML5
