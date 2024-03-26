@@ -1,5 +1,6 @@
 # Kickstarter landing page by Eduard Herasym (GitHub: edkido)
 DESCRIPTION
+
   This landing page serves as a gateway to explore my professional journey and skills.
   My small portfolio project of landing page.
   Landing is responsive for all basic viewports.
