@@ -2,6 +2,7 @@
 Description
   This landing page serves as a gateway to explore my professional journey and skills.
   My portfolio small project of landing page.
+  Landing is responsive for all basic viewports.
 
 Technologies
   - HTML5
